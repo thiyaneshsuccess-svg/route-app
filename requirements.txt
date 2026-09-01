@@ -1,8 +1,0 @@
-networkx>=3.2
-xgboost>=2.0
-pandas>=2.0
-numpy>=1.26
-streamlit>=1.32
-plotly>=5.18
-scikit-learn>=1.4
-pytest>=8.0
